@@ -1,10 +1,10 @@
 - title: Home
-    link: /
+  link: /
 - title: About
-    link: /about
+  link: /about
 - title: Documents
-    link: /about#docs
+  link: /about#docs
 - title: Education
-    link: /education
+  link: /education
 - title: Projects
-    link: /projects
+  link: /projects

@@ -1,7 +1,8 @@
 ---
-title: ePortfolio - Liam Harder
-description: A little about me and the things I make
+title: home
+description: ePortfolio - Liam Harder
 layout: default
+show_github_link: true
 ---
 # Liam Jakob Harder
 ### Coder - Creator - Collaborator

@@ -4,6 +4,7 @@ description: More information about me
 layout: default
 show_github_link: false
 ---
+{%include navbar.html%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Sed risus pretium quam vulputate dignissim suspendisse in est. Elementum integer enim neque volutpat. Pharetra massa massa ultricies mi quis hendrerit. Arcu vitae elementum curabitur vitae nunc. Leo vel orci porta non. Quam adipiscing vitae proin sagittis. Nec nam aliquam sem et tortor consequat id. Eget lorem dolor sed viverra ipsum nunc. Hac habitasse platea dictumst quisque sagittis purus. Dignissim diam quis enim lobortis scelerisque fermentum. Purus in mollis nunc sed id semper. Nunc aliquet bibendum enim facilisis. Sed enim ut sem viverra aliquet eget sit amet tellus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique. Nec tincidunt praesent semper feugiat nibh sed.
 

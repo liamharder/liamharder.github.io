@@ -1,5 +1,9 @@
-<nav>
-  <a href="/">Home</a>
-  <a href="/about.html">About</a>
-  <a href="/about.html#docs">Documents</a>
-</nav>
+<nav><table><tr>
+	{% for item in site.data.nav %}
+		<td {% if page.url == item.link %}style="background-color: #b5e853; color: #1a1a1a"{% endif %}>
+			<a href="{{ item.link }}">
+				{{ item.name }}
+			</a>
+		</td>
+	{% endfor %}
+</tr></table></nav>

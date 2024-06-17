@@ -16,5 +16,5 @@ project highlights go here
 ## Education
 classes go here
 
-## Contact
+<h2 id="contact">Contact</h2>
 contact info

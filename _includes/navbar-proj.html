@@ -1,0 +1,9 @@
+<nav><table><tr>
+	{% for item in site.data.nav %}
+		<td style="border: 1px solid #dbdbdb; border-radius: 10px;{% if item.link == "/projects.html" %}background-color: #b5e853; color: #1a1a1a;{% endif %}">
+			<a href="{{ item.link }}">
+				{{ item.title }}
+			</a>
+		</td>
+	{% endfor %}
+</tr></table></nav>

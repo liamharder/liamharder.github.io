@@ -8,7 +8,7 @@ show_github_link: false
 
 <table>
 	<tr>
-		<th colspan="3">Featured Projects</th>
+		<th colspan="3"><h1 style="color: #b5e853; text-align: center">Featured Projects</h1></th>
 	</tr>
 	<tr>
 		<th>
@@ -37,7 +37,7 @@ show_github_link: false
 		{% endif %}
 	{% endfor %}
 	<tr>
-		<th colspan="3">Other Projects</th>
+		<th colspan="3"><br><br><br><h1 style="color: #b5e853; text-align: center">Other Projects</h1></th>
 	</tr>
 	<tr>
 		<th>

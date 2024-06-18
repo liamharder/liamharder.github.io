@@ -63,6 +63,6 @@ show_github_link: false
 					{{ proj.desc }}
 				</td>
 			</tr>
-		{% endif %}
+		{% endunless %}
 	{% endfor %}
 </table>

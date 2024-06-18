@@ -1,0 +1,24 @@
+<table style="border: 1px solid #dbdbdb; border-radius: 10px;">
+	{% for proj in site.data.projects %}
+		{% if proj.link == page.url %}
+			<tr style="border-bottom: 1px solid #dbdbdb;">
+				<td>
+					Project Name: {{ proj.project-name }}
+				</td>
+				<td>
+					Created For: {{ proj.class }}
+				</td>
+			</tr>
+			<tr style="border-bottom: 1px solid #dbdbdb;">
+				<td colspan="2">
+					Project Completion Date: {{ proj.date }}
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					{{ proj.desc }}
+				</td>
+			</tr>
+		{%endif%}
+	{%endfor%}
+</table>

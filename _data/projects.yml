@@ -1,7 +1,8 @@
 - project-name: Test Project 
   class: INFO 0000 - Intro to Metahumour
-  link: /projects/test
+  link: /projects/test.html
   desc: A project whose only purpose is to test my site's layout settings.
   date: 1999-12-31
   featured: true
-  show: false
+# INFO 2411 encryption algorithm
+# prompt writing

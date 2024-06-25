@@ -3,6 +3,12 @@
   link: /projects/test.html
   desc: A project whose only purpose is to test my site's layout settings.
   date: 1999-12-31
+  featured: false
+- project-name: The Seasons and Me Vol. II Poetry Compilation 
+  class: Personal interest project
+  link: /projects/2013poetry.html
+  desc: Featured in a poetry compilation published by the Poetry Institute of Canada
+  date: 2013-01-01
   featured: true
 # INFO 2411 encryption algorithm
 # prompt writing

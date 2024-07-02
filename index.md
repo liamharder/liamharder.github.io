@@ -12,6 +12,9 @@ Hello, and welcome to my ePortfolio! If you're reading this, it's most likely be
 
 ## Projects
 Below are some examples of what I consider to be my finest work across a number of courses and disciplines. A more complete list of projects I've completed can be found on the Projects page.
+
+---
+
 <table>
 	<tr>
 		<th>
@@ -41,16 +44,42 @@ Below are some examples of what I consider to be my finest work across a number 
 	{% endfor %}
 </table>
 
-## Education
-As of June 2024, I am in my 5th year of studies towards a Bachelor of Technology degree from Kwantlen Polytechnic University, majoring in Information Technology. Academically, I am in my 4th year, having completed the majority of my 3rd year courses. As with everyone else, the COVID-19 pandemic significantly disrupted my studies (along with every other aspect of my daily life), but even in the face of adversity I am proud to have maintained a cumulative GPA of X.XX - my stride may have slowed, but it has not faltered. I have also demonstrated an ability to learn new skills and develop new competencies quickly and efficiently, as evidenced by my high grades in several classes outside my primary discipline of IT. A list of my most relevant courses can be found below; more information is available on the Education page.
+---
 
-add course table here
+## Education
+As of June 2024, I am in my 5th year of studies towards a Bachelor of Technology degree from Kwantlen Polytechnic University, majoring in Information Technology. Academically, I am in my 4th year, having completed the majority of my 3rd year courses. As with everyone else, the COVID-19 pandemic significantly disrupted my studies (along with every other aspect of my daily life), but even in the face of adversity I am proud to have maintained a cumulative GPA of 4.05 - my stride may have slowed, but it has not faltered. I have also demonstrated an ability to learn new skills and develop new competencies quickly and efficiently, as evidenced by my high grades in several classes outside my primary discipline of IT. A list of my most relevant courses can be found below; more information is available on the Education page.
+
+---
+
+<table>
+	{% for course in site.data.courses %}
+		{% if course.featured %}
+			<tr>
+				<td>
+					Name: {{ course.class }}
+				</td>
+				<td>
+					Date Complete: {{ course.date }}
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					Description: {{ course.desc }}
+					<br>
+					Final Grade: {{ course.grade}}
+				</td>
+			</tr>
+		{% endif %}
+	{% endfor %}
+</table>
+
+---
 
 <h2 id="contact">Contact</h2>
 If you want to get in touch with me to arrange an interview or for any other reason, I can be found on:
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/liam-j-harder/)
 
-GitHub
+[GitHub](https://github.com/liamharder)
 
-Email - name@address.com
+Email - [liamharder06@gmail](mailto:liamharder06@gmail)

@@ -27,7 +27,7 @@ In less flowery terms, I aspire to create the kinds of games that will leave my 
 
 ---
 
-<a href="/resume.pdf" download="LiamHarder_Resume">Resume</a> - Last updated June 28, 2024
+<a href="/resume.pdf" download="LiamHarder_Resume">Resume</a> - Last updated July 1, 2024
 
 ---
 

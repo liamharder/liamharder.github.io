@@ -1,11 +1,11 @@
-- project-name: Test Project 
-  class: INFO 0000 - Intro to Metahumour
-  link: /projects/test.html
-  desc: A project whose only purpose is to test my site's layout settings.
-  date: 1999-12-31
-  featured: false
+#- project-name: Test Project 
+#  class: INFO 0000 - Intro to Metahumour
+#  link: /projects/test.html
+#  desc: A project whose only purpose is to test my site's layout settings.
+#  date: 1999-12-31
+#  featured: false
 - project-name: The Seasons and Me Vol. II Poetry Compilation 
-  class: Personal interest project
+  class: N/A - Personal Interest Project
   link: /projects/2013poetry.html
   desc: Featured in a poetry compilation published by the Poetry Institute of Canada
   date: 2013-01-01
@@ -16,5 +16,15 @@
   desc: The website you're currently looking at, designed and coded by me
   date: 2024-07-02
   featured: true
-# INFO 2411 encryption algorithm
-# prompt writing
+- project-name: Morse 2.0 Encryption Algorithm 
+  class: INFO 2411 - Intro to Computer Security
+  link: /projects/morse2.html
+  desc: Rudimentary encryption algorithm and proof-of-concept encoder/decoder program
+  date: 2021-04-15
+  featured: false
+- project-name: Prompt Writing Samples 
+  class: N/A - Personal Interest Project
+  link: /projects/promptsamples.html
+  desc: Writing samples based on provided prompts, written during COVID as a creative outlet
+  date: 2022-07-22
+  featured: true

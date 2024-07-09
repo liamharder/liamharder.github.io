@@ -1,5 +1,45 @@
-- class: INFO 0000 - Intro to Metahumour
-  desc: A totally real university class I took.
-  date: 1999-12-31
+#- class: INFO 0000 - Intro to Metahumour
+#  desc: A totally real university class I took.
+#  date: 1999-12-31
+#  grade: A+
+#  featured: true
+- class: INFO 3135 - Advanced Web App Development
+  desc: Course covering the PHP language and its applications, including connecting to a MySQL database for data storage and retrieval.
+  date: 2023-12-05
+  grade: A+
+  featured: true
+- class: INFO 3171 - System Security
+  desc: Explored various security threats and countermeasures against them, with particular emphasis on network and password security. 
+  date: 2023-04-04
+  grade: A+
+  featured: false
+- class: INFO 3245 - Mobile Programming
+  desc: Java programming for Android mobile devices, using mobile-exclusive features such as GPS, gyroscopes, accelerometers, and wireless networks. Also covered optimizing UI and performance for mobile.
+  date: 2023-04-04
+  grade: A
+  featured: false
+- class: INFO 3150 - Object-Oriented Software Engineering
+  desc: Learned advanced object-oriented programming techniques in Java, including design patterns and principles (Liskov's substitution principle, single responsibility principle, etc)
+  date: 2022-04-04
+  grade: A
+  featured: true
+- class: INFO 2416 - Server Operating Systems
+  desc: Learned installation, setup, and maintainence of Windows Server operating systems, including setting up servers for DHCP, DNS, web hosting, and Active Directory.
+  date: 2021-12-05
+  grade: A+
+  featured: false
+- class: ANTH 1217 - Forensic Anthropology
+  desc: Learned several techniques for estimating a person's appearance and therefore identity from skeletal remains, including markers for estimating height, age, and other physical characteristics.
+  date: 2019-08-04
+  grade: A+
+  featured: false
+- class: JRNL 1220 - Citizen Journalism
+  desc: Studied and practiced common investigative journalism techniques such as court searches and FOI requests, and how to relay discovered information in an effective and accessible fashion.
+  date: 2019-04-04
+  grade: A+
+  featured: false
+- class: CRWR 1240 - Networked Narratives
+  desc: Studied creative writing in the context of new forms of media such as blogs, social media, and other digital publications, and experimented with crafting nonlinear "branching" narratives like those found in video games or choose-your-own-adventure books.
+  date: 2018-12-05
   grade: A+
   featured: true

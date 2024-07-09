@@ -6,6 +6,8 @@ show_github_link: false
 ---
 {%include navbar.html%}
 
+This page contains most of the relevant courses I've taken during my years of studies, along with the date of completion and final grade. A full transcript of all my courses is available upon request.
+
 <table>
 	<tr>
 		<th colspan="3"><h1 style="color: #b5e853; text-align: center">Featured Courses</h1></th>

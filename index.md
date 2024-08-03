@@ -82,4 +82,4 @@ If you want to get in touch with me to arrange an interview or for any other rea
 
 [GitHub](https://github.com/liamharder)
 
-Email - [liamharder06@gmail](mailto:liamharder06@gmail)
+Email - [liamharder06@gmail](mailto:liamharder06@gmail.com)

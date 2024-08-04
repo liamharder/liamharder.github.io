@@ -40,6 +40,9 @@ Below are some examples of what I consider to be my finest work across a number 
 					{{ proj.desc }}
 				</td>
 			</tr>
+			<tr>
+				---
+			</tr>
 		{% endif %}
 	{% endfor %}
 </table>
@@ -68,6 +71,9 @@ As of June 2024, I am in my 5th year of studies towards a Bachelor of Technology
 					<br>
 					Final Grade: {{ course.grade}}
 				</td>
+			</tr>
+			<tr>
+				---
 			</tr>
 		{% endif %}
 	{% endfor %}

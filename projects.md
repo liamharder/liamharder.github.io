@@ -34,9 +34,6 @@ show_github_link: false
 					{{ proj.desc }}
 				</td>
 			</tr>
-			<tr>
-				---
-			</tr>
 		{% endif %}
 	{% endfor %}
 	<tr>
@@ -65,9 +62,6 @@ show_github_link: false
 				<td>
 					{{ proj.desc }}
 				</td>
-			</tr>
-			<tr>
-				---
 			</tr>
 		{% endunless %}
 	{% endfor %}

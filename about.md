@@ -47,8 +47,8 @@ I believe that video games have the ability to take this a step even further, al
 
 ---
 
-<a href="/cover.pdf" download="LiamHarder_CoverLetter">Cover Letter</a> - Last updated January 1, 2000
+<a href="/cover.pdf" download="LiamHarder_CoverLetter">Cover Letter</a> - Last updated N/A
 
 ---
 
-<a href="/cv.pdf" download="LiamHarder_CV">Curriculum Vitae</a> - Last updated January 1, 2000
+<a href="/cv.pdf" download="LiamHarder_CV">Curriculum Vitae</a> - Last updated N/A

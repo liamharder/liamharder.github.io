@@ -29,9 +29,6 @@ This page contains most of the relevant courses I've taken during my years of st
 					Final Grade: {{ course.grade}}
 				</td>
 			</tr>
-			<tr>
-				---
-			</tr>
 		{% endif %}
 	{% endfor %}
 	<tr>
@@ -53,9 +50,6 @@ This page contains most of the relevant courses I've taken during my years of st
 					<br>
 					Final Grade: {{ course.grade}}
 				</td>
-			</tr>
-			<tr>
-				---
 			</tr>
 		{% endunless %}
 	{% endfor %}
